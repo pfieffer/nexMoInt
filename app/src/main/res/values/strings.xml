@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NexmoInt</string>
+
+    <string name="intro_text">Fill in the following to send SMS</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
 </resources>
