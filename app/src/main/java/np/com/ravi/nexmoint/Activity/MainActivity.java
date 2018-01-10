@@ -1,9 +1,13 @@
-package np.com.ravi.nexmoint;
+package np.com.ravi.nexmoint.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.widget.Toast;
+
+import np.com.ravi.nexmoint.Config;
+import np.com.ravi.nexmoint.Fragment.MainFragment;
+import np.com.ravi.nexmoint.R;
 
 public class MainActivity extends AppCompatActivity {
 
